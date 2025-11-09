@@ -1,6 +1,7 @@
 import google.generativeai as genai
 import pandas as pd
 
+# manoj
 # Configure Gemini API key
 genai.configure(api_key="AIzaSyBCSEzBz3lxXfj-5TO1arnuYAJAH5M4uNg")
 
