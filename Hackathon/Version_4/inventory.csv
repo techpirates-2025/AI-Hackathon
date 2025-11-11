@@ -1,0 +1,51 @@
+str_no,str_loc,str_zipcode,SKU,prd_name,prd_id,Department,Ecochoice,prd_loc,loc_aisle,stock_qty
+STR001,RS Puram,641002,SKU1001,Organic Milk,PRD001,Dairy,High,store,B3,25
+STR001,RS Puram,641002,SKU1002,Organic Milk,PRD002,Dairy,Very high,warehouse,F2,12
+STR001,RS Puram,641002,SKU1003,Whole Wheat Bread,PRD003,Fresh,Medium,store,A5,31
+STR001,RS Puram,641002,SKU1004,Green Tea,PRD004,Beverages,High,warehouse,H6,8
+STR001,RS Puram,641002,SKU1005,Toothpaste Herbal,PRD005,Personal Care,Medium,store,C3,19
+STR002,Gandhipuram,641012,SKU1006,Organic Rice,PRD006,Grocery,Very high,store,B8,42
+STR002,Gandhipuram,641012,SKU1007,Shampoo Aloe,PRD007,Personal Care,High,warehouse,K2,9
+STR002,Gandhipuram,641012,SKU1008,Olive Oil,PRD008,Grocery,Medium,store,F4,16
+STR002,Gandhipuram,641012,SKU1009,Coconut Water,PRD009,Beverages,Very high,store,G1,27
+STR002,Gandhipuram,641012,SKU1010,Paneer Fresh,PRD010,Dairy,High,warehouse,L5,10
+STR003,Saibaba Colony,641011,SKU1011,Organic Rice,PRD011,Grocery,High,store,D2,34
+STR003,Saibaba Colony,641011,SKU1012,Green Tea,PRD012,Beverages,Medium,warehouse,E7,22
+STR003,Saibaba Colony,641011,SKU1013,Face Wash Neem,PRD013,Personal Care,Low,store,H4,11
+STR003,Saibaba Colony,641011,SKU1014,Detergent Powder,PRD014,Grocery,Very low,store,M3,29
+STR003,Saibaba Colony,641011,SKU1015,Curd Natural,PRD015,Dairy,Medium,warehouse,N8,15
+STR004,Singanallur,641005,SKU1016,Basmati Rice,PRD016,Grocery,High,store,J2,20
+STR004,Singanallur,641005,SKU1017,Hand Wash Lemon,PRD017,Personal Care,Very high,store,K6,33
+STR004,Singanallur,641005,SKU1018,Energy Drink,PRD018,Beverages,Medium,warehouse,P5,7
+STR004,Singanallur,641005,SKU1019,Whole Wheat Bread,PRD019,Fresh,Low,store,A2,13
+STR004,Singanallur,641005,SKU1020,Butter Salted,PRD020,Dairy,Medium,warehouse,Q9,9
+STR005,Peelamedu,641004,SKU1021,Toothpaste Herbal,PRD021,Personal Care,Very high,store,B7,17
+STR005,Peelamedu,641004,SKU1022,Green Tea,PRD022,Beverages,Very low,warehouse,H5,5
+STR005,Peelamedu,641004,SKU1023,Paneer Fresh,PRD023,Dairy,Medium,store,L4,14
+STR005,Peelamedu,641004,SKU1024,Olive Oil,PRD024,Grocery,High,warehouse,G3,28
+STR005,Peelamedu,641004,SKU1025,Organic Rice,PRD025,Grocery,Very high,store,F1,36
+STR006,Ramanathapuram,641045,SKU1026,Face Wash Neem,PRD026,Personal Care,Medium,store,C8,20
+STR006,Ramanathapuram,641045,SKU1027,Curd Natural,PRD027,Dairy,Low,warehouse,N3,7
+STR006,Ramanathapuram,641045,SKU1028,Whole Wheat Bread,PRD028,Fresh,Very low,store,E2,22
+STR006,Ramanathapuram,641045,SKU1029,Basmati Rice,PRD029,Grocery,High,warehouse,I5,25
+STR006,Ramanathapuram,641045,SKU1030,Organic Milk,PRD030,Dairy,Medium,store,J3,18
+STR007,Ukkadam,641001,SKU1031,Shampoo Aloe,PRD031,Personal Care,Very high,warehouse,K8,13
+STR007,Ukkadam,641001,SKU1032,Energy Drink,PRD032,Beverages,Low,store,M2,24
+STR007,Ukkadam,641001,SKU1033,Butter Salted,PRD033,Dairy,Medium,warehouse,P7,15
+STR007,Ukkadam,641001,SKU1034,Detergent Powder,PRD034,Grocery,Very low,store,F6,21
+STR007,Ukkadam,641001,SKU1035,Coconut Water,PRD035,Beverages,High,warehouse,G9,9
+STR008,Kuniyamuthur,641008,SKU1036,Organic Rice,PRD036,Grocery,Very high,store,B4,38
+STR008,Kuniyamuthur,641008,SKU1037,Green Tea,PRD037,Beverages,High,warehouse,H1,11
+STR008,Kuniyamuthur,641008,SKU1038,Paneer Fresh,PRD038,Dairy,Medium,store,J7,17
+STR008,Kuniyamuthur,641008,SKU1039,Toothpaste Herbal,PRD039,Personal Care,Low,warehouse,C1,8
+STR008,Kuniyamuthur,641008,SKU1040,Curd Natural,PRD040,Dairy,High,store,E4,29
+STR009,Vadavalli,641041,SKU1041,Basmati Rice,PRD041,Grocery,High,warehouse,I4,12
+STR009,Vadavalli,641041,SKU1042,Organic Milk,PRD042,Dairy,Very high,store,B2,26
+STR009,Vadavalli,641041,SKU1043,Olive Oil,PRD043,Grocery,Medium,warehouse,G8,14
+STR009,Vadavalli,641041,SKU1044,Face Wash Neem,PRD044,Personal Care,Very low,store,H3,19
+STR009,Vadavalli,641041,SKU1045,Energy Drink,PRD045,Beverages,Low,warehouse,P1,5
+STR010,Thudiyalur,641034,SKU1046,Hand Wash Lemon,PRD046,Personal Care,Very high,store,K9,31
+STR010,Thudiyalur,641034,SKU1047,Whole Wheat Bread,PRD047,Fresh,Medium,warehouse,A4,16
+STR010,Thudiyalur,641034,SKU1048,Butter Salted,PRD048,Dairy,Low,store,Q5,18
+STR010,Thudiyalur,641034,SKU1049,Detergent Powder,PRD049,Grocery,Very low,warehouse,M6,8
+STR010,Thudiyalur,641034,SKU1050,Coconut Water,PRD050,Beverages,High,store,G6,25

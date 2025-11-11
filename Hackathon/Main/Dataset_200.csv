@@ -1,0 +1,141 @@
+str_no,str_loc,str_zipcode,prd_name,prd_id,Department,SKU,Qty,Ecochoice,prd_loc,stock_qty,loc_aisle
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1001,100ml,High,store,25,D1
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1002,250ml,Very high,store,12,D1
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1030,500ml,Medium,store,6,D1
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1042,1ltr,Very high,store,0,D1
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1001,100ml,High,warehouse,0,WD11
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1002,250ml,Very high,warehouse,0,WD11
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1030,500ml,Medium,warehouse,0,WD11
+STR001,RS Puram,641002,Milk,PRD001,Dairy,SKU1042,1ltr,Very high,warehouse,0,WD11
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1003,50g,Medium,store,31,F3
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1019,100g,Low,store,13,F3
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1028,200g,Very low,store,22,F3
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1047,250g,Medium,store,16,F3
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1003,50g,Medium,warehouse,5,WF31
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1019,100g,Low,warehouse,5,WF31
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1028,200g,Very low,warehouse,5,WF31
+STR001,RS Puram,641002,Whole Wheat Bread,PRD003,Fresh,SKU1047,250g,Medium,warehouse,5,WF31
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1004,150g,High,store,8,B4
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,store,22,B4
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,store,5,B4
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1037,500g,High,store,0,B4
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1004,150g,High,warehouse,0,WB41
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,warehouse,0,WB41
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,warehouse,0,WB41
+STR001,RS Puram,641002,Green Tea,PRD004,Beverages,SKU1037,500g,High,warehouse,2,WB41
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1004,150g,High,store,8,B4
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,store,22,B4
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,store,5,B4
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1037,500g,High,store,11,B4
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1004,150g,High,warehouse,8,WB41
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,warehouse,22,WB41
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,warehouse,5,WB41
+STR002,Peelamedu,641004,Green Tea,PRD004,Beverages,SKU1037,500g,High,warehouse,11,WB41
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1004,150g,High,store,8,B4
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,store,22,B4
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,store,5,B4
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1037,500g,High,store,11,B4
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1004,150g,High,warehouse,8,WB41
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1012,100g,Medium,warehouse,22,WB41
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1022,250g,Very low,warehouse,5,WB41
+STR003,Vadavalli,641041,Green Tea,PRD004,Beverages,SKU1037,500g,High,warehouse,11,WB41
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1005,50g,Medium,store,19,P5
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1021,100g,Very high,store,17,P5
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1039,250g,Low,store,8,P5
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1005,50g,Medium,warehouse,5,WP51
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1021,100g,Very high,warehouse,5,WP51
+STR001,RS Puram,641002,Toothpaste Herbal,PRD005,Personal Care,SKU1039,250g,Low,warehouse,5,WP51
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1006,1kg,Very high,store,42,G6
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1011,2kg,High,store,34,G6
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1025,5kg,Very high,store,36,G6
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1036,10kg,Very high,store,0,G6
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1006,1kg,Very high,warehouse,5,WG61
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1011,2kg,High,warehouse,5,WG61
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1025,5kg,Very high,warehouse,5,WG61
+STR001,RS Puram,641002,Organic Rice,PRD006,Grocery,SKU1036,10kg,Very high,warehouse,5,WG61
+STR001,RS Puram,641002,Shampoo Aloe,PRD007,Personal Care,SKU1007,100ml,High,store,9,P7
+STR001,RS Puram,641002,Shampoo Aloe,PRD007,Personal Care,SKU1031,200ml,Very high,store,13,P7
+STR001,RS Puram,641002,Shampoo Aloe,PRD007,Personal Care,SKU1007,100ml,High,warehouse,0,WP71
+STR001,RS Puram,641002,Shampoo Aloe,PRD007,Personal Care,SKU1031,200ml,Very high,warehouse,0,WP71
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1008,50ml,Medium,store,16,G8
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1024,100ml,High,store,28,G8
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1043,200ml,Medium,store,14,G8
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1008,50ml,Medium,warehouse,0,WG81
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1024,100ml,High,warehouse,0,WG81
+STR001,RS Puram,641002,Olive Oil,PRD008,Grocery,SKU1043,200ml,Medium,warehouse,0,WG81
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,store,27,B9
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,store,9,B9
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,store,25,B9
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,warehouse,0,WB91
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,warehouse,0,WB91
+STR001,RS Puram,641002,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,warehouse,0,WB91
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,store,27,B9
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,store,9,B9
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,store,25,B9
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,warehouse,27,WB91
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,warehouse,9,WB91
+STR002,Peelamedu,641004,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,warehouse,25,WB91
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,store,27,B9
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,store,9,B9
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,store,25,B9
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1009,200ml,Very high,warehouse,27,WB91
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1035,500ml,High,warehouse,9,WB91
+STR003,Vadavalli,641041,Coconut Water,PRD009,Beverages,SKU1050,1ltr,High,warehouse,25,WB91
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1010,50g,High,store,10,D10
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1023,100g,Medium,store,14,D10
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1038,200g,Medium,store,17,D10
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1010,50g,High,warehouse,0,WD101
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1023,100g,Medium,warehouse,0,WD101
+STR001,RS Puram,641002,Paneer Fresh,PRD010,Dairy,SKU1038,200g,Medium,warehouse,0,WD101
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1013,50g,Low,store,11,P13
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1026,100g,Medium,store,20,P13
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1044,200g,Very low,store,19,P13
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1013,50g,Low,warehouse,0,WP131
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1026,100g,Medium,warehouse,0,WP131
+STR001,RS Puram,641002,Face Wash Neem,PRD013,Personal Care,SKU1044,200g,Very low,warehouse,0,WP131
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1014,250g,Very low,store,29,G14
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1034,500g,Very low,store,21,G14
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1049,1kg,Very low,store,8,G14
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1014,250g,Very low,warehouse,5,WG141
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1034,500g,Very low,warehouse,5,WG141
+STR001,RS Puram,641002,Detergent Powder,PRD014,Grocery,SKU1049,1kg,Very low,warehouse,5,WG141
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1015,200ml,Medium,store,15,D15
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1027,500ml,Low,store,7,D15
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1040,1ltr,High,store,29,D15
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1015,200ml,Medium,warehouse,0,WD151
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1027,500ml,Low,warehouse,0,WD151
+STR001,RS Puram,641002,Curd Natural,PRD015,Dairy,SKU1040,1ltr,High,warehouse,0,WD151
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1016,1kg,High,store,20,G16
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1029,2kg,High,store,25,G16
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1041,5kg,High,store,0,G16
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1016,1kg,High,warehouse,0,WG161
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1029,2kg,High,warehouse,0,WG161
+STR001,RS Puram,641002,Basmati Rice,PRD016,Grocery,SKU1041,5kg,High,warehouse,0,WG161
+STR001,RS Puram,641002,Shampoo Neem,PRD017,Personal Care,SKU1017,100ml,Very high,store,0,P17
+STR001,RS Puram,641002,Shampoo Neem,PRD017,Personal Care,SKU1046,200ml,Very high,store,0,P17
+STR001,RS Puram,641002,Shampoo Neem,PRD017,Personal Care,SKU1017,100ml,Very high,warehouse,0,WP171
+STR001,RS Puram,641002,Shampoo Neem,PRD017,Personal Care,SKU1046,200ml,Very high,warehouse,0,WP171
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,store,0,B18
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,store,0,B18
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,store,0,B18
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,warehouse,0,WB181
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,warehouse,0,WB181
+STR001,RS Puram,641002,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,warehouse,0,WB181
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,store,7,B18
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,store,24,B18
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,store,5,B18
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,warehouse,7,WB181
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,warehouse,24,WB181
+STR002,Peelamedu,641004,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,warehouse,5,WB181
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,store,7,B18
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,store,24,B18
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,store,5,B18
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1018,50ml,Medium,warehouse,7,WB181
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1032,100ml,Low,warehouse,24,WB181
+STR003,Vadavalli,641041,Energy Drink,PRD018,Beverages,SKU1045,200ml,Low,warehouse,5,WB181
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1020,100g,Medium,store,9,D20
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1033,200g,Medium,store,15,D20
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1048,500g,Low,store,18,D20
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1020,100g,Medium,warehouse,0,WD201
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1033,200g,Medium,warehouse,0,WD201
+STR001,RS Puram,641002,Butter Salted,PRD020,Dairy,SKU1048,500g,Low,warehouse,0,WD201
